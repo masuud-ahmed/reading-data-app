@@ -1,0 +1,8 @@
+c:\users\hp\documents\visual studio 2015\Projects\assaignment 4\assaignment 4\bin\Debug\assaignment 4.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\assaignment 4\assaignment 4\bin\Debug\assaignment 4.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\assaignment 4\assaignment 4\bin\Debug\assaignment 4.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\assaignment 4\assaignment 4\obj\Debug\assaignment_4.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\assaignment 4\assaignment 4\obj\Debug\assaignment_4.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\assaignment 4\assaignment 4\obj\Debug\assaignment 4.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\assaignment 4\assaignment 4\obj\Debug\assaignment 4.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\assaignment 4\assaignment 4\obj\Debug\assaignment 4.pdb
